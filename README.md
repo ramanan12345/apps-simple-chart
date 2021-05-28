@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Airtable/apps-simple-chart)
+
 # Simple chart app
 
 This example app shows a bar chart of data from a table.
